@@ -1,0 +1,12 @@
+Adobe After Effects v13.5 Windows 64 render log for project “web Gif.aep”
+
+Rendering started on 15/10/2015 at 12:19:26 PM
+
+  15/10/2015 12:19:26 PM: Starting composition “GIF4”.
+
+  Output To: C:\Users\xstra\Desktop\GIF4\GIF4_[#####].psd      Render stopped by user.    15/10/2015 12:19:30 PM: Finished composition “GIF4”.
+
+
+  Total Time Elapsed: 4 Seconds
+Log closed on 15/10/2015 at 12:19:30 PM
+
